@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Marc Bruyere
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Marc
+last_name: Bruyere
 
 # Status emoji
 status:
@@ -14,34 +14,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Internet Initiative Japan Lab
+    url: "https://www.iijlab.net/en/about/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include how to make computer talking together for human.
 
-# Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Programmable Data Planes
+- People-centric research
+- Internet exchange operation
 
-# Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD Computer Networking
+    institution: LAAS CNRS - University Paul Sabatier
+    year: 2016
+  - course: MSc Computer Networking and Telecom Eng
+    institution: UPSSITCH STRI
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,16 +48,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/bruyeremarc
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.fr/citations?user=QBfMiVsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mbruyere
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -80,5 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, Marc Bruyere started his career in 1996, working for Club-Internet.fr.  and for  Cisco,  Vivendi  Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10  Networks,  and  Dell. His CCIE # 16656 
+
+ He received his Ph.D. degree from the LAAS  CNRS, followed by a two years PostDoc at the University of Tokyo. His thesis is about open Source OpenFlow SDN for IXPs. He designed and deployed the first European  OpenFlow IXP fabric for the  TouIX.  Now he is a senior researcher at Internet Initiative Japan Lab.
+ 
 {style="text-align: justify;"}
