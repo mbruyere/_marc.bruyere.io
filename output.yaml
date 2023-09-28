@@ -1,0 +1,7 @@
+block: experience
+content:
+  date_format: MMM YYYY
+  items: []
+  title: Experience
+design:
+  columns: '2'
