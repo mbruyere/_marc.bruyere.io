@@ -75,8 +75,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, Marc Bruyere started his career in 1996, working for Club-Internet.fr.  and for  Cisco,  Vivendi  Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10  Networks,  and  Dell. His CCIE # 16656 
+Marc Bruyere started his career in 1996, working for Club-Internet.fr  and for  Cisco,  Vivendi  Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10  Networks,  and  Dell. His CCIE # 16656 
 
  He received his Ph.D. degree from the LAAS  CNRS, followed by a two years PostDoc at the University of Tokyo. His thesis is about open Source OpenFlow SDN for IXPs. He designed and deployed the first European  OpenFlow IXP fabric for the  TouIX.  Now he is a senior researcher at Internet Initiative Japan Lab.
- 
+
 {style="text-align: justify;"}
