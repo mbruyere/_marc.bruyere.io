@@ -34,8 +34,8 @@ education:
   - course: PhD Computer Networking
     institution: LAAS CNRS - University Paul Sabatier
     year: 2016
-  - course: MSc Computer Networking and Telecom Eng
-    institution: UPSSITCH STRI
+  - course: MSc Engineering Computer Networking and Telecom
+    institution: UPSSITCH STRI 
     year: 2001
 
 # Social/Academic Networking
