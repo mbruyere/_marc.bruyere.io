@@ -1,7 +1,7 @@
 ---
 title: ML-Based Performance Modeling in SDN-Enabled Data Center Networks
 date: '2023-03-01'
-draft: true
+draft: false
 publishDate: '2023-09-28T06:18:28.841618Z'
 authors:
 - Benoit Nougnanke
@@ -25,7 +25,7 @@ abstract: Traffic optimization and smart buffering are fundamental to achieve bo
   features. With this performance modeling capability, smart buffering schemes or
   traffic optimization algorithms could anticipate and efficiently optimize system
   parameters adjustment to achieve optimal performance continuously in data centers.
-featured: false
+featured: true
 publication: '*IEEE Transactions on Network and Service Management*'
 tags:
 - Data models

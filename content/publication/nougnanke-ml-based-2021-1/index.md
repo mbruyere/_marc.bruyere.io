@@ -1,7 +1,7 @@
 ---
 title: ML-based Incast Performance Optimization in Software-Defined Data Centers
 date: '2021-06-01'
-draft: true
+draft: false
 publishDate: '2023-09-28T06:18:28.586826Z'
 authors:
 - Kokouvi Benoit Nougnanke
@@ -22,7 +22,7 @@ abstract: Trafﬁc optimization is fundamental to achieve both great application
   switch buffer space to achieve optimal incast completion time in different conﬁgurations.
   We expect this framework to be a building block for autonomous data center network
   management.
-featured: false
+featured: true
 publication: '*2021 IEEE 22nd International Conference on High Performance Switching
   and Routing (HPSR)*'
 doi: 10.1109/HPSR52026.2021.9481836
