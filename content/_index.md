@@ -130,10 +130,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: People Centric Research
+          tag: People centric research
+        - name:  HolistIX
+          tag: HolistIX
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

@@ -75,12 +75,12 @@ email: ''
 highlight_name: true
 ---
 
-I began my career back in 1996 with my first job at Club-Internet.fr. Over the years, I had the privilege of working with some exceptional organizations, including Cisco, Vivendi Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10 Networks, and Dell.
+I began my career back in 1996 with my first job at Club-Internet.fr. Over the years, I had the privilege of working with some exceptional organizations, including Cisco, Vivendi Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10 Networks, and Dell.  My CV here
 
 One of my notable achievements is earning the title of **CCIE Emeritus #16656**.
 
-My academic journey has also been quite rewarding. I pursued a Ph.D. degree from the LAAS CNRS, followed by a two-year PostDoc at the University of Tokyo. My doctoral thesis revolved around open-source OpenFlow SDN for Internet Exchange Points (IXPs). I'm particularly proud of designing and implementing the first European OpenFlow IXP fabric for TouIX.
+My academic journey has also been quite rewarding. I pursued a **Ph.D. degree** at the LAAS CNRS, followed by a two-year PostDoc at the University of Tokyo. My doctoral thesis revolved around open-source OpenFlow SDN for Internet Exchange Points (IXPs). You can explore my [papers and publications ](#section-collection) or [actual projects](#projects)
 
-Today, I continue my journey as a senior researcher at the Internet Initiative Japan Lab, where I'm fortunate to contribute to the world of networking and SDN. It's been an incredible journey, and I'm excited to see where the future leads.
+Today, I continue my journey as a senior researcher at IIJ Lab, where I'm fortunate to contribute to the world of Internet and computer networking. 
 
 {style="text-align: justify;"}
