@@ -75,8 +75,12 @@ email: ''
 highlight_name: true
 ---
 
-Marc Bruyere started his career in 1996, working for Club-Internet.fr  and for  Cisco,  Vivendi  Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10  Networks,  and  Dell. His CCIE # 16656 
+I began my career back in 1996 with my first job at Club-Internet.fr. Over the years, I had the privilege of working with some exceptional organizations, including Cisco, Vivendi Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10 Networks, and Dell.
 
- He received his Ph.D. degree from the LAAS  CNRS, followed by a two years PostDoc at the University of Tokyo. His thesis is about open Source OpenFlow SDN for IXPs. He designed and deployed the first European  OpenFlow IXP fabric for the  TouIX.  Now he is a senior researcher at Internet Initiative Japan Lab.
+One of my notable achievements is earning the title of **CCIE Emeritus #16656**.
+
+My academic journey has also been quite rewarding. I pursued a Ph.D. degree from the LAAS CNRS, followed by a two-year PostDoc at the University of Tokyo. My doctoral thesis revolved around open-source OpenFlow SDN for Internet Exchange Points (IXPs). I'm particularly proud of designing and implementing the first European OpenFlow IXP fabric for TouIX.
+
+Today, I continue my journey as a senior researcher at the Internet Initiative Japan Lab, where I'm fortunate to contribute to the world of networking and SDN. It's been an incredible journey, and I'm excited to see where the future leads.
 
 {style="text-align: justify;"}
