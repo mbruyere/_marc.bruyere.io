@@ -17,7 +17,7 @@ main:
  #   url: '#talks'
  #   weight: 40
   - name: Publications
-    url: 'publication'
+    url: '#section-collection'
     weight: 50
   - name: CV
     url: uploads/resume.pdf

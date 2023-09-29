@@ -34,8 +34,8 @@ education:
   - course: PhD Computer Networking
     institution: LAAS CNRS - University Paul Sabatier
     year: 2016
-  - course: MSc Engineering Computer Networking and Telecom
-    institution: UPSSITCH STRI 
+  - course: MSE Networking and Telecom
+    institution: UPSSITECH STRI
     year: 2001
 
 # Social/Academic Networking
@@ -60,7 +60,7 @@ social:
     link: https://github.com/mbruyere
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/marc-bruyere/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
