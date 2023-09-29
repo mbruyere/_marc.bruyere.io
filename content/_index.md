@@ -161,10 +161,10 @@ sections:
   #     view: card
   - block: collection
     content:
-      title: Publications
+      title: Recents Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+         [To search in all the publications](./publication/).
         {{% /callout %}}
       filters:
         folders:
