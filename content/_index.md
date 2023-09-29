@@ -127,19 +127,22 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: People Centric Research
-          tag: People centric research
-        - name:  HolistIX
-          tag: HolistIX
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+    #   buttons:
+    #     - name: All
+    #       tag: '*'
+    #     - name: 'People Centric Research'
+    #       tag: People centric research
+    #     - name:  'HolistIX'
+    #       tag: HolistIX
+    # design:
+    #   # Choose how many columns the section has. Valid values: '1' or '2'.
+    #   columns: '1'
+    #   view: showcase
+    #   # For Showcase view, flip alternate rows?
+    #   flip_alt_rows: false
+
+
+
   # - block: markdown
   #   content:
   #     title: Gallery
