@@ -77,7 +77,7 @@ highlight_name: true
 
 I began my career back in 1996 with my first job at Club-Internet.fr. Over the years, I had the privilege of working with some exceptional organizations, including Cisco, Vivendi Universal, Credit Suisse First Boston, Airbus/Dimension Data, Force10 Networks, and Dell.  My CV here
 
-One of my notable achievements is earning the title of **CCIE Emeritus #16656**.
+One of my notable achievements is earning the title of **CCIE Emeritus #16656** after more than a decade of supporting Cisco Technologies.
 
 My academic journey has also been quite rewarding. I pursued a **Ph.D. degree** at the LAAS CNRS, followed by a two-year PostDoc at the University of Tokyo. My doctoral thesis revolved around open-source OpenFlow SDN for Internet Exchange Points (IXPs). You can explore my [papers and publications ](#section-collection) or [actual projects](#projects)
 
