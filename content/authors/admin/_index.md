@@ -79,7 +79,9 @@ I began my career back in 1996 with my first job at Club-Internet.fr. Over the y
 
 One of my notable achievements is earning the title of **CCIE Emeritus #16656** after more than a decade of supporting Cisco Technologies.
 
-My academic journey has also been quite rewarding. I pursued a **Ph.D. degree** at the LAAS CNRS, followed by a two-year PostDoc at the University of Tokyo. My doctoral thesis revolved around open-source OpenFlow SDN for Internet Exchange Points (IXPs). You can explore my [papers and publications ](#section-collection) or [actual projects](#projects)
+My academic journey has also been quite rewarding. I pursued a **Ph.D. degree** at the LAAS CNRS, followed by a two-year PostDoc at the University of Tokyo. 
+
+My doctoral thesis revolved around open-source OpenFlow SDN for Internet Exchange Points (IXPs). You can explore my [papers and publications ](#section-collection) or [actual projects](#projects)
 
 Today, I continue my journey as a senior researcher at IIJ Lab, where I'm fortunate to contribute to the world of Internet and computer networking. 
 
