@@ -1,28 +1,21 @@
 ---
-title: Software defined networking and virtualization for broadband satellite networks
+title: Report on Hardware abstraction models
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Lionel Bertaux
-- Samir Medjiah
-- Pascal Berthou
-- Slim Abdellatif
-- Akram Hakiri
-- Patrick Gelard
-- Fabrice Planchou
-- Marc Bruyere
+- Remigiusz Rajewski
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2015-03-01'
+date: '2013-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-10-18T09:04:26.228794Z'
+publishDate: '2023-10-18T09:04:26.196419Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -30,22 +23,27 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Communications Magazine*'
+publication: ''
 publication_short: ''
 
-doi: 10.1109/MCOM.2015.7060482
+doi: ''
 
-abstract: Satellite networks have traditionally been considered for specific purposes.
-  Recently, new satellite technologies have been pushed to the market enabling highperformance
-  satellite access networks. On the other hand, network architectures are taking advantages
-  from emerging technologies such as Software-Defined Networking (SDN), network virtualization
-  and Network Functions Virtualization (NFV). Therefore, benefiting communications
-  services over satellite networks from these new technologies at first, and their
-  seamless integration with terrestrial networks at second, are of great interest
-  and importance. In this paper, and through comprehensive use cases, the advantages
-  of introducing network programmability and virtualization using SDN and/or NFV in
-  satellite networks are investigated. The requirements to be fulfilled in each use
-  case are also discussed.
+abstract: This report provides the state of the art concerning technologies and important
+  aspects related to hardware abstraction models. The ALIEN project aims at delivering
+  innovative network abstraction layer to connect non-OpenFlow capable equipment to
+  OpenFlow environment, therefore all issues relevant to hardware abstraction mechanism
+  should be considered. The report starts with short description of the main ideas
+  of Software Defined Networking (SDN), where the OpenFlow protocol is used. This
+  is the “hot topic” regarding modern and future communication networks. Next, issues
+  related to hardware abstraction layer and the most important network and protocol
+  description languages related to the goal of the ALIEN project are presented. To
+  hide the complexity of underlying hardware it is possible to use intermediate representation
+  languages and platforms described in this deliverable. The issues related to network
+  virtualization as well as selected aspects of security in SDN are also discussed.
+  To show the practical implementation of the OpenFlow environment the first OpenFlow
+  based experimental facility at Europe is depicted in the report. The network was
+  created within OFELIA collaborative project and allows researchers not only to experiment
+  by using the network but to control the network itself.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -83,9 +81,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: http://ieeexplore.ieee.org/document/7060482/
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

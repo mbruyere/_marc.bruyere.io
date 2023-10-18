@@ -1,56 +1,58 @@
 ---
-title: Software defined networking and virtualization for broadband satellite networks
+title: 'Shaping the Internet: 10 Years of IXP Growth'
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Lionel Bertaux
-- Samir Medjiah
-- Pascal Berthou
-- Slim Abdellatif
-- Akram Hakiri
-- Patrick Gelard
-- Fabrice Planchou
+- Timm Böttger
+- Gianni Antichi
+- Eder L. Fernandes
+- Roberto di Lallo
 - Marc Bruyere
+- Steve Uhlig
+- Gareth Tyson
+- Ignacio Castro
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2015-03-01'
+date: '2018-10-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-10-18T09:04:26.228794Z'
+publishDate: '2023-10-18T09:04:26.265469Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- manuscript
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Communications Magazine*'
+publication: '*arXiv*'
 publication_short: ''
 
-doi: 10.1109/MCOM.2015.7060482
+doi: 10.48550/arXiv.1810.10963
 
-abstract: Satellite networks have traditionally been considered for specific purposes.
-  Recently, new satellite technologies have been pushed to the market enabling highperformance
-  satellite access networks. On the other hand, network architectures are taking advantages
-  from emerging technologies such as Software-Defined Networking (SDN), network virtualization
-  and Network Functions Virtualization (NFV). Therefore, benefiting communications
-  services over satellite networks from these new technologies at first, and their
-  seamless integration with terrestrial networks at second, are of great interest
-  and importance. In this paper, and through comprehensive use cases, the advantages
-  of introducing network programmability and virtualization using SDN and/or NFV in
-  satellite networks are investigated. The requirements to be fulfilled in each use
-  case are also discussed.
+abstract: Over the past decade, IXPs have been playing a key role in enabling interdomain
+  connectivity. Their traffic volumes have grown dramatically and their physical presence
+  has spread throughout the world. While the relevance of IXPs is undeniable, their
+  long-term contribution to the shaping of the current Internet is not fully understood
+  yet. In this paper, we look into the impact on Internet routes of the intense IXP
+  growth over the last decade. We observe that while in general IXPs only have a small
+  effect in path shortening, very large networks do enjoy a clear IXP-enabled path
+  reduction. We also observe a diversion of the routes, away from the central Tier-1
+  ASes supported by IXPs. Interestingly, we also find that whereas IXP membership
+  has grown, large and central ASes have steadily moved away from public IXP peerings,
+  whereas smaller ones have embraced them. Despite all this changes, we find though
+  that a clear hierarchy remains, with a small group of highly central networks
 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags:
+- Computer Science - Networking and Internet Architecture
 
 # Display this page in a list of Featured pages?
 featured: false
@@ -85,7 +87,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: http://ieeexplore.ieee.org/document/7060482/
+  url: http://arxiv.org/abs/1810.10963
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

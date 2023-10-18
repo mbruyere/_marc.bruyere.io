@@ -1,28 +1,23 @@
 ---
-title: Software defined networking and virtualization for broadband satellite networks
+title: Rapport final du projet (février 2017 – août 2018)
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Lionel Bertaux
-- Samir Medjiah
-- Pascal Berthou
-- Slim Abdellatif
-- Akram Hakiri
-- Patrick Gelard
-- Fabrice Planchou
-- Marc Bruyere
+- Rémy Lapeyrade
+- Marc Bruyère
+- Philippe Owezarski
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '2015-03-01'
+date: '2017-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-10-18T09:04:26.228794Z'
+publishDate: '2023-10-18T09:04:26.299256Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -30,22 +25,22 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Communications Magazine*'
+publication: ''
 publication_short: ''
 
-doi: 10.1109/MCOM.2015.7060482
+doi: ''
 
-abstract: Satellite networks have traditionally been considered for specific purposes.
-  Recently, new satellite technologies have been pushed to the market enabling highperformance
-  satellite access networks. On the other hand, network architectures are taking advantages
-  from emerging technologies such as Software-Defined Networking (SDN), network virtualization
-  and Network Functions Virtualization (NFV). Therefore, benefiting communications
-  services over satellite networks from these new technologies at first, and their
-  seamless integration with terrestrial networks at second, are of great interest
-  and importance. In this paper, and through comprehensive use cases, the advantages
-  of introducing network programmability and virtualization using SDN and/or NFV in
-  satellite networks are investigated. The requirements to be fulfilled in each use
-  case are also discussed.
+abstract: 'Les nœuds d’échange Internet (ou IXP pour Internet eXchange Point) sont
+  des éléments critiques de l’architecture de l’Internet actuel pour l’interconnexion
+  des réseaux. Leur importance et attrait croissants requièrent des niveaux de flexibilité
+  importants que le concept de réseaux programmables (ou SDN : Software Defined Network)
+  semble en mesure d’offrir. Ensemble, IXP et SDN présentent une promesse pour la
+  mise en place et la gestion de fabriques de communication qui dépasse le traditionnel
+  cadre intra-domaine [1], [2], [3]. En effet, en transportant d’énormes volumes de
+  trafic et en interconnectant de multitudes de réseaux de types différents, les IXPs
+  sont devenus des éléments centraux de l’Internet mondial [4], [5]. Ainsi, les IXPs
+  sont devenus un type de réseaux universel affectant largement le partage des informations
+  dans l’Internet.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -83,9 +78,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: http://ieeexplore.ieee.org/document/7060482/
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
